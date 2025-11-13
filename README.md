@@ -1,6 +1,6 @@
 # Tamagotchi Connection Battery Door
 
-Download from Printables here: [`Download Link`]()
+Download from Printables here: [`Download Link`](https://www.printables.com/model/1479415-tamagotchi-connection-battery-door)
 
 ### Summary
 
