@@ -29,7 +29,7 @@
 
 * * *
 
-## Previews
+# Previews
 
 ![](assets/preview-interior.png)
 
