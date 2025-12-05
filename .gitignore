@@ -1,1 +1,4 @@
-.blend1
+# Temporary Blender files.
+blendcache_*
+*.blend1
+*.blend2
